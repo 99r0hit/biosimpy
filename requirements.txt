@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+numpy>=1.21.0
+pandas>=1.3.0
+plotly>=5.0.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+# For additional functionality
+matplotlib>=3.5.0  # Alternative plotting
+joblib>=1.2.0      # Model serialization
+seaborn>=0.11.0    # Enhanced visualizations
